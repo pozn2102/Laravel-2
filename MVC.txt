@@ -1,0 +1,8 @@
+MVC
+
++ Model: nhiệm vụ với DB
+
++ View: Hiển thị với người dùng
+
++ Controller: chứa hàm, kết nối giữa model + view
+Lấy dữ liệu từ model->Controller->view
